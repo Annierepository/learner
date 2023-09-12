@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Sample</title>
+    </head>
+    <body>
+        
+            <a>Click
+
+        <header>
+            <body top margin=""100" bgcolor=""blue"></body>
+            <nav> 
+                Home
+                About
+
+            </nav>
+        </header> 
+       <main>
+        <section>
+            <div>
+                <div>
+                <h1></h1>
+                <blockquote></blockquote>
+                <p>Lorem, ipsum.</p>
+</div>
+           </div>
+
+
+
+
+
+        </section>
+        <article></article>
+        <aside></aside>
+        <table></table>
+        <form></form>
+       </main>
+       <footer></footer>
+        <h1> </h1>
+ 
+
+
+
+
+    </body>
+    </html>
+
+
 
